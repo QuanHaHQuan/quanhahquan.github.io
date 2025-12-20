@@ -38,7 +38,7 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 - 2024.08-2024.11
 
 ## Services
-- **Oral Session Chair** *ICIC 2024*
+- **Oral Session Chair:** *ICIC 2024*
 - **Reviewer:** *ICME 2024, IJCNN 2025, IEEE SMC 2025, IEEE AVSS 2025*
 
 ## Contact
