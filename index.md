@@ -37,11 +37,11 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 - *Autonoums Driving Pre-study* & *Passenger Status Detection*
 - 2024.08-2024.11
 
-## Skills
-- **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
-- **Tools and Technologies:** Linux Programming, Git, LaTeX/Markdown, MS Office, Google Workspace
-- **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
+## Services
+- **Oral Session Chair** *ICIC 2024*
+- **Reviewer:** *ICME 2024, IJCNN 2025, IEEE SMC 2025, IEEE AVSS 2025*
 
 ## Contact
+- **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 - **Email:** haoquan.chen724@gmail.com
 - **WeChat:** QuanHaHQuan
