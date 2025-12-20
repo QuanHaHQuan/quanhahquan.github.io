@@ -10,7 +10,7 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 - 2023-2026
 
 ### BSc in Computer Science and Technology
-- Xuteli College(Honors College)
+- Xuteli College (Honors College)
 - Beijing Institute of Technology, P.R.China
 - 2019-2023
   
