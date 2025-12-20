@@ -15,10 +15,10 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 - 2019-2023
   
 ## Publications:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. *2024 International Conference on Intelligent Computing* (ICIC, Oral).
-- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. *2025 International Joint Conference on Neural Networks* (IJCNN, Oral). Rome, Italy, June 30-July 5, 2025, pp. 1–8, [doi:10.1109/IJCNN64981.2025.11228627](https://ieeexplore.ieee.org/document/11228627).
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. *2024 International Conference on Intelligent Computing* (ICIC, Oral), [doi:10.1007/978-981-97-5692-6\_23](https://link.springer.com/chapter/10.1007/978-981-97-5692-6_23).
+- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. *2025 International Joint Conference on Neural Networks* (IJCNN, Oral), [doi:10.1109/IJCNN64981.2025.11228627](https://ieeexplore.ieee.org/document/11228627).
 - Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning. *2025 IEEE International Conference on Systems, Man, and Cybernetics* (IEEE SMC, Oral).
-- Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation. *2025 International Conference on Neural Information Processing* (ICONIP).
+- Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation. *2025 International Conference on Neural Information Processing* (ICONIP), [doi:10.1007/978-981-95-4100-3\_10](https://link.springer.com/chapter/10.1007/978-981-95-4100-3_10#citeas)
 
 ## Internship Experience
 
