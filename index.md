@@ -4,12 +4,12 @@ I am Haoquan (Eddie) Chen (陈浩权), a third-year master student in Computer S
 I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-information/dich/), [01.AI](https://www.01.ai/), and [TeleAI](https://www.chinatelecom.com.cn/), focusing on **multi-modal and vision-related algorithms**. During my internship at 01.AI, I had the privilege of collaborating with and learning from [Dr. Minglei Li](https://scholar.google.com/citations?hl=en&user=KqU6kVcAAAAJ&view_op=list_works&sortby=pubdate), [Dr. Xukun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=z86xXmgAAAAJ&view_op=list_works&sortby=pubdate), [Mr. Haiwei Xue](https://scholar.google.com/citations?hl=zh-CN&user=0lsQJgYAAAAJ&view_op=list_works&sortby=pubdate), and [Mr. Sijie Ren](https://scholar.google.com/citations?user=yRCk4LMAAAAJ&hl=en), among others.
 
 ## Educational Background
-### M.S. in Computer Science
+### M.Sc. in Computer Science
 - College of Computer Science
 - Beijing Institute of Technology, P.R.China
 - 2023-2026
 
-### B.S. in Computer Science
+### B.Sc. in Computer Science
 - Xuteli College (Honors College)
 - Beijing Institute of Technology, P.R.China
 - 2019-2023
