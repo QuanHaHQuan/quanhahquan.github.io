@@ -6,12 +6,14 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 ## Educational Background
 ### M.Sc. in Computer Science
 - College of Computer Science
-- Beijing Institute of Technology, P.R.China
+- Beijing Institute of Technology
+- Beijing, P.R.China
 - 2023-2026
 
 ### B.Sc. in Computer Science
 - Xuteli College (Honors College)
-- Beijing Institute of Technology, P.R.China
+- Beijing Institute of Technology
+- Beijing, P.R.China
 - 2019-2023
   
 ## Publications:
@@ -39,7 +41,7 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 
 ## Services
 - **Oral Session Chair:** *ICIC 2024*
-- **Reviewer:** *ICME 2024, IJCNN 2025, IEEE SMC 2025, IEEE AVSS 2025*
+- **Reviewer:** *ICME, IJCNN, IEEE SMC, IEEE AVSS*, etc.
 
 ## Contact
 - **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
