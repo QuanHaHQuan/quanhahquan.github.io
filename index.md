@@ -32,7 +32,7 @@ I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-
 ### 01.AI, Multimodal Algorithm
 - **Digtial Human Production & Technology Department**
 - *Textual-info Guided Real-Scene Human Matting*
-- 2024.11-2025.02
+- 2024.11-2025.03
 
 ### DENSO (China), Deep Learning Algorithm
 - **AI Algorithm Study Department**
