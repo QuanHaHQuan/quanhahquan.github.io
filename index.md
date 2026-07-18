@@ -92,8 +92,8 @@ Outside research, I enjoy traveling, discovering good food, outdoor activities, 
 
 <div class="travel-gallery">
   <figure>
-    <img src="{{ 'assets/images/travel/snowy-mountains.jpg' | relative_url }}" alt="Ink-Wash Danxia in Xining, Qinghai, China" loading="lazy">
-    <figcaption>Ink-Wash Danxia · Xining, Qinghai, China</figcaption>
+    <img src="{{ 'assets/images/travel/snowy-mountains.jpg' | relative_url }}" alt="Ink-Wash Danxia in Lanzhou, Gansu, China" loading="lazy">
+    <figcaption>Ink-Wash Danxia · Lanzhou, Gansu, China</figcaption>
   </figure>
   <figure>
     <img src="{{ 'assets/images/travel/city-at-night.jpg' | relative_url }}" alt="Hong Kong skyline at night from Sky100" loading="lazy">
