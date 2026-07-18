@@ -122,4 +122,3 @@ Outside research, I enjoy traveling, discovering good food, outdoor activities, 
 
 - **Email:** [haoquan.chen724@gmail.com](mailto:haoquan.chen724@gmail.com)
 - **GitHub:** [QuanHaHQuan](https://github.com/QuanHaHQuan)
-- **Tech blog:** [CSDN - QuanHaHQuan](https://blog.csdn.net/c_h_q_)
