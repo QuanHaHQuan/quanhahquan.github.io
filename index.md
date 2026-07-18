@@ -24,24 +24,24 @@ Building on this experience in multimodal representation and alignment, I am now
 1. **Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation**<br>
    **Haoquan Chen**, Mingtao Pei, Zhengang Nie<br>
    *International Conference on Neural Information Processing (ICONIP 2025)*, pp. 132-147.<br>
-   [[DOI](https://doi.org/10.1007/978-981-95-4100-3_10)]
+   [[Paper](https://doi.org/10.1007/978-981-95-4100-3_10)]
 
 2. **Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning**<br>
    **Haoquan Chen**, Mingtao Pei, Zhengang Nie<br>
    *IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)*, Oral, pp. 1544-1549.<br>
-   [[DOI](https://doi.org/10.1109/SMC58881.2025.11342904)]
+   [[Paper](https://doi.org/10.1109/SMC58881.2025.11342904)]
 
 3. **Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank**<br>
    **Haoquan Chen**, Bin Yan, Hongyu Shen, Mingtao Pei<br>
    *International Joint Conference on Neural Networks (IJCNN 2025)*, Oral, pp. 1-8.<br>
-   [[DOI](https://doi.org/10.1109/IJCNN64981.2025.11228627)]
+   [[Paper](https://doi.org/10.1109/IJCNN64981.2025.11228627)]
 
 ### 2024
 
 1. **Mitigating Data Imbalance in Medical Report Generation Through Visual Data Resampling**<br>
    **Haoquan Chen**, Bin Yan, Mingtao Pei<br>
    *International Conference on Intelligent Computing (ICIC 2024)*, Oral, pp. 255-266.<br>
-   [[DOI](https://doi.org/10.1007/978-981-97-5692-6_23)]
+   [[Paper](https://doi.org/10.1007/978-981-97-5692-6_23)]
 
 ## Industry Experience
 
@@ -85,6 +85,38 @@ Building on this experience in multimodal representation and alignment, I am now
 - **Oral Session Chair:** ICIC 2024
 - **Reviewer:** ICME, IJCNN, IEEE SMC, and IEEE AVSS
 - **Student Member:** APNNS and INNS
+
+## Outside the Lab
+
+Outside research, I enjoy traveling, discovering good food, outdoor activities, and spending time with lovely animals. So far, my curiosity has taken me to **8 countries and 55 cities**, and I am always looking forward to the next stop.
+
+<div class="travel-gallery">
+  <figure>
+    <img src="{{ 'assets/images/travel/snowy-mountains.jpg' | relative_url }}" alt="Ink-Wash Danxia in Xining, Qinghai, China" loading="lazy">
+    <figcaption>Ink-Wash Danxia · Xining, Qinghai, China</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ 'assets/images/travel/city-at-night.jpg' | relative_url }}" alt="Hong Kong skyline at night from Sky100" loading="lazy">
+    <figcaption>Sky100 · Hong Kong, China</figcaption>
+  </figure>
+  <figure class="wide">
+    <img src="{{ 'assets/images/travel/florence-skyline.jpg' | relative_url }}" alt="Florence skyline from Piazzale Michelangelo, Italy" loading="lazy">
+    <figcaption>Piazzale Michelangelo · Florence, Italy</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ 'assets/images/travel/ocean-waves.jpg' | relative_url }}" alt="Broken Beach on Nusa Penida, Indonesia" loading="lazy">
+    <figcaption>Broken Beach · Nusa Penida, Indonesia</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ 'assets/images/travel/blue-sky-monument.jpg' | relative_url }}" alt="Dazhao Temple in Hohhot, Inner Mongolia, China" loading="lazy">
+    <figcaption>Dazhao Temple · Hohhot, Inner Mongolia, China</figcaption>
+  </figure>
+  <figure class="wide">
+    <img src="{{ 'assets/images/travel/seaside-sunset.jpg' | relative_url }}" alt="Sunset at Coconut Dream Corridor in Sanya, Hainan, China" loading="lazy">
+    <figcaption>Coconut Dream Corridor · Sanya, Hainan, China</figcaption>
+  </figure>
+</div>
+
 
 ## Contact
 

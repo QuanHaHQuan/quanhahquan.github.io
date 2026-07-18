@@ -1,0 +1,51 @@
+.travel-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-flow: dense;
+  gap: 12px;
+  margin: 22px 0 28px;
+}
+
+.travel-gallery figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.travel-gallery figure.wide {
+  grid-column: 1 / -1;
+}
+
+.travel-gallery img {
+  display: block;
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.travel-gallery figure.wide img {
+  height: 280px;
+}
+
+.travel-gallery figcaption {
+  margin-top: 6px;
+  color: #727272;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+@media print, screen and (max-width: 720px) {
+  .travel-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .travel-gallery figure.wide {
+    grid-column: auto;
+  }
+
+  .travel-gallery img,
+  .travel-gallery figure.wide img {
+    height: auto;
+    object-fit: contain;
+  }
+}
