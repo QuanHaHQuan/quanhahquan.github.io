@@ -1,49 +1,93 @@
-## Intro
-I am Haoquan (Eddie) Chen (陈浩权), a third-year master student in Computer Science and Technology at Beijing Institute of Technology. I was fortunate to be advised by [Dr. Zhengang Nie](https://pure.bit.edu.cn/en/persons/zhengang-nie/) during my undergraduate studies. Currently, I am pursuing my master's under the supervision of [Prof. Mingtao Pei](https://peimingtao.github.io/index.html) at the Media Computing and Intelligent Systems Lab (MCIS Lab).
+## About Me
 
-I have interned at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-information/dich/), [01.AI](https://www.01.ai/), and [TeleAI](https://www.chinatelecom.com.cn/), focusing on **multi-modal and vision-related algorithms**. During my internship at 01.AI, I had the privilege of collaborating with and learning from [Dr. Minglei Li](https://scholar.google.com/citations?hl=en&user=KqU6kVcAAAAJ&view_op=list_works&sortby=pubdate), [Dr. Xukun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=z86xXmgAAAAJ&view_op=list_works&sortby=pubdate), [Mr. Haiwei Xue](https://scholar.google.com/citations?hl=zh-CN&user=0lsQJgYAAAAJ&view_op=list_works&sortby=pubdate), and [Mr. Sijie Ren](https://scholar.google.com/citations?user=yRCk4LMAAAAJ&hl=en), among others.
+Hi! I am Haoquan (Eddie) Chen (陈浩权). I recently received my M.Sc. in Computer Science and Technology from Beijing Institute of Technology (BIT), where I was advised by [Prof. Mingtao Pei](https://peimingtao.github.io/index.html) at the Media Computing and Intelligent Systems Lab. Before that, I worked with [Dr. Zhengang Nie](https://pure.bit.edu.cn/en/persons/zhengang-nie/) during my undergraduate studies.
 
-## Educational Background
-### M.Sc. in Computer Science
+In September 2026, I will join the Faculty of Computing at Harbin Institute of Technology (HIT) as a Ph.D. student in Software Engineering, under the supervision of [Prof. Hongwei Ren](https://rhwxmx.github.io/). My next research chapter will explore **event-based vision and multimodal learning**.
+
+I enjoy turning interesting ideas into systems that work in the real world. Along the way, I have explored medical report generation, vision-language learning, video matting, visual foundation models, and in-cabin perception through research and internships at DENSO (China), 01.AI, and TeleAI. I am naturally curious, outgoing, and always happy to meet people who enjoy discussing research, engineering, or a promising idea over coffee.
+
+## Research
+
+My master's research focused on **reliable medical report generation**, especially for clinically important but underrepresented abnormalities. Across four first-author papers, I studied this problem from a connected set of perspectives:
+
+- **Balancing visual evidence:** resampling rare visual findings to reduce the effect of long-tailed clinical data.
+- **Retrieving medical knowledge:** using dynamic phrase-level templates to improve precision and contextual relevance.
+- **Aligning vision and language:** learning unified multimodal representations with inter-case contrastive supervision.
+- **Focusing on abnormalities:** enhancing subtle pathological evidence through visual contrastive classification and semantic guidance.
+
+Building on this experience in multimodal representation and alignment, I am now moving toward event cameras and multimodal perception for efficient, robust visual intelligence.
+
+## Publications
+
+### 2025
+
+1. **Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation**<br>
+   **Haoquan Chen**, Mingtao Pei, Zhengang Nie<br>
+   *International Conference on Neural Information Processing (ICONIP 2025)*, pp. 132-147.<br>
+   [[DOI](https://doi.org/10.1007/978-981-95-4100-3_10)]
+
+2. **Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning**<br>
+   **Haoquan Chen**, Mingtao Pei, Zhengang Nie<br>
+   *IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)*, Oral, pp. 1544-1549.<br>
+   [[DOI](https://doi.org/10.1109/SMC58881.2025.11342904)]
+
+3. **Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank**<br>
+   **Haoquan Chen**, Bin Yan, Hongyu Shen, Mingtao Pei<br>
+   *International Joint Conference on Neural Networks (IJCNN 2025)*, Oral, pp. 1-8.<br>
+   [[DOI](https://doi.org/10.1109/IJCNN64981.2025.11228627)]
+
+### 2024
+
+1. **Mitigating Data Imbalance in Medical Report Generation Through Visual Data Resampling**<br>
+   **Haoquan Chen**, Bin Yan, Mingtao Pei<br>
+   *International Conference on Intelligent Computing (ICIC 2024)*, Oral, pp. 255-266.<br>
+   [[DOI](https://doi.org/10.1007/978-981-97-5692-6_23)]
+
+## Industry Experience
+
+### TeleAI · Visual Foundation Model Algorithm Intern
+**Visual Content Understanding Department** · May 2025 - Jun. 2025
+
+- Worked on multi-task visual foundation models, extending unified architectures for keypoint detection and efficient adaptation to domain-specific tasks.
+
+### 01.AI · Multimodal Algorithm Intern
+**Digital Human Group** · Nov. 2024 - Mar. 2025
+
+- Developed text-guided video matting methods that combine fine-grained semantic cues with temporal information for challenging real-world scenes.
+
+### DENSO (China) · Deep Learning Algorithm Intern
+**Algorithm Research Group** · Aug. 2024 - Nov. 2024
+
+- Built data and detection pipelines for real-world in-cabin perception, including passenger status monitoring and facial-angle estimation.
+
+## Education
+
+### Harbin Institute of Technology
+**Incoming Ph.D. Student in Software Engineering** · Starting Sep. 2026
+
+- Faculty of Computing
+- Supervisor: [Prof. Hongwei Ren](https://rhwxmx.github.io/)
+- Research interests: event-based vision and multimodal learning
+
+### Beijing Institute of Technology
+**M.Sc. in Computer Science and Technology** · Sep. 2023 - Jun. 2026
+
 - College of Computer Science
-- Beijing Institute of Technology
-- Beijing, P.R.China
-- 2023-2026
+- Thesis: *Medical Report Generation via Modal Alignment and Visual Anomaly Enhancement*
 
-### B.Sc. in Computer Science
+**B.Sc. in Computer Science and Technology** · Sep. 2019 - Jun. 2023
+
 - Xuteli College (Honors College)
-- Beijing Institute of Technology
-- Beijing, P.R.China
-- 2019-2023
-  
-## Publications:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. *2024 International Conference on Intelligent Computing* (ICIC, Oral), [doi:10.1007/978-981-97-5692-6\_23](https://link.springer.com/chapter/10.1007/978-981-97-5692-6_23).
-- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. *2025 International Joint Conference on Neural Networks* (IJCNN, Oral), [doi:10.1109/IJCNN64981.2025.11228627](https://ieeexplore.ieee.org/document/11228627).
-- Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning. *2025 IEEE International Conference on Systems, Man, and Cybernetics* (IEEE SMC, Oral), [doi:10.1109/SMC58881.2025.11342904](https://ieeexplore.ieee.org/document/11342904).
-- Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation. *2025 International Conference on Neural Information Processing* (ICONIP), [doi:10.1007/978-981-95-4100-3\_10](https://link.springer.com/chapter/10.1007/978-981-95-4100-3_10#citeas)
+- Thesis: *Unbalanced Data Augmentation Techniques for Medical Report Generation*
 
-## Internship Experience
+## Professional Service
 
-### TeleAI, Visual Foundation Model Algorithm
-- **Visual Content Understanding Department**
-- *Unified Visual Foundation Model*
-- 2025.05-2025.06
-
-### 01.AI, Multimodal Algorithm
-- **Digtial Human Production & Technology Department**
-- *Textual-info Guided Real-Scene Human Matting*
-- 2024.11-2025.03
-
-### DENSO (China), Deep Learning Algorithm
-- **AI Algorithm Study Department**
-- *Autonoums Driving Pre-study* & *Passenger Status Detection*
-- 2024.08-2024.11
-
-## Services
-- **Oral Session Chair:** *ICIC 2024*
-- **Reviewer:** *ICME, IJCNN, IEEE SMC, IEEE AVSS*, etc.
+- **Oral Session Chair:** ICIC 2024
+- **Reviewer:** ICME, IJCNN, IEEE SMC, and IEEE AVSS
+- **Student Member:** APNNS and INNS
 
 ## Contact
-- **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
-- **Email:** haoquan.chen724@gmail.com
-- **WeChat:** QuanHaHQuan
+
+- **Email:** [haoquan.chen724@gmail.com](mailto:haoquan.chen724@gmail.com)
+- **GitHub:** [QuanHaHQuan](https://github.com/QuanHaHQuan)
+- **Tech blog:** [CSDN - QuanHaHQuan](https://blog.csdn.net/c_h_q_)
