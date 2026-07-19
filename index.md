@@ -73,6 +73,7 @@ Building on this experience in multimodal representation and alignment, I am now
 **M.Sc. in Computer Science and Technology** · Sep. 2023 - Jun. 2026
 
 - College of Computer Science
+- Supervisor: [Prof. Mingtao Pei](https://peimingtao.github.io/index.html)
 - Thesis: *Medical Report Generation via Modal Alignment and Visual Anomaly Enhancement*
 
 **B.Sc. in Computer Science and Technology** · Sep. 2019 - Jun. 2023
