@@ -2,8 +2,6 @@
 
 Hi! I am Haoquan (Eddie) Chen (陈浩权). I recently received my M.Sc. in Computer Science and Technology from Beijing Institute of Technology (BIT), where I was advised by [Prof. Mingtao Pei](https://peimingtao.github.io/index.html) at the Media Computing and Intelligent Systems Lab. Before that, I worked with [Dr. Zhengang Nie](https://pure.bit.edu.cn/en/persons/zhengang-nie/) during my undergraduate studies.
 
-In September 2026, I will join the Faculty of Computing at Harbin Institute of Technology (HIT) as a Ph.D. student in Software Engineering, under the supervision of [Prof. Hongwei Ren](https://rhwxmx.github.io/). My next research chapter will explore **event-based vision and multimodal learning**.
-
 I enjoy turning interesting ideas into systems that work in the real world. Along the way, I have explored medical report generation, vision-language learning, video matting, visual foundation models, and in-cabin perception through research and internships at DENSO (China), 01.AI, and TeleAI. I am naturally curious, outgoing, and always happy to meet people who enjoy discussing research, engineering, or a promising idea over coffee.
 
 ## Research
@@ -61,13 +59,6 @@ Building on this experience in multimodal representation and alignment, I am now
 - Built data and detection pipelines for real-world in-cabin perception, including passenger status monitoring and facial-angle estimation.
 
 ## Education
-
-### Harbin Institute of Technology
-**Incoming Ph.D. Student in Software Engineering** · Starting Sep. 2026
-
-- Faculty of Computing
-- Supervisor: [Prof. Hongwei Ren](https://rhwxmx.github.io/)
-- Research interests: event-based vision and multimodal learning
 
 ### Beijing Institute of Technology
 **M.Sc. in Computer Science and Technology** · Sep. 2023 - Jun. 2026
